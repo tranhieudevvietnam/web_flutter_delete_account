@@ -1,6 +1,6 @@
 {
-    "name": "flutter_policy_delete_account",
-    "short_name": "flutter_policy_delete_account",
+    "name": "flutter_profile",
+    "short_name": "flutter_profile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
